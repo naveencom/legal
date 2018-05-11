@@ -7,7 +7,7 @@ To notify us, you will need to provide us with:
 1. The trademarked word/symbol in question plus the category of goods and/or services in which you are asserting rights
 2. The trademark registration number and country where you claim trademark rights
 3. Information that allows us to find the infringing material on Telepath (e.g. a link to a post, reply, network, or user)
-4. Explain what the problem is: How is your trademark is being infringed and what’s causing the confusion (be specific please)
+4. Explain what the problem is: How your trademark is being infringed and what’s causing the confusion (be specific please)
 5. Explain what you want us to do: Remove a certain post, ban an account, or ask a user to change their name or user profile in some way
 6. A statement that:
     1. You believe in good-faith that this third-party use of the trademark which you are telling us about has not been authorized by the trademark owner
