@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective: May 10, 2018
+Effective: Sep 18, 2020
 
 This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our products, mobile apps, sites, services, and content (“Services”).
 

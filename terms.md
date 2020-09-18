@@ -1,6 +1,6 @@
 # Terms of Service
 
-Effective: May 10, 2018
+Effective: Sep 18, 2020
 
 These Terms of Service (“Terms”) are a contract between you and Telepath Inc. They govern your use of Telepath’s products, mobile apps, sites, services, and content (“Services”).
 
